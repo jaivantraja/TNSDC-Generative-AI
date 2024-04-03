@@ -1,4 +1,4 @@
-# TNSDC-Generative-AI
+# TNSDC_Generative-AI
 
 ## Overview
 This project aims to automate the classification of rice images using deep learning techniques, particularly Convolutional Neural Networks (CNNs). The goal is to develop a model capable of accurately identifying different varieties of rice and detecting disease symptoms from images, aiding in agricultural management and ensuring food security.
