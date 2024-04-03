@@ -20,4 +20,5 @@ This project aims to automate the classification of rice images using deep learn
 * Scikit-learn
 
 _Dataset Link_ : https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
+
 _Demo Video Link_ : https://github.com/jaivantraja/TNSDC-Generative-AI/blob/a1763d582599131349c6c8d9e308ddf2a40543a3/DemoVideo.mp4
